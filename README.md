@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello!
 
-<!--
-**DaBlower/DaBlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started programming with C and now mainly use Python (though I do occasionally use some other languages such as ruby!)
 
-Here are some ideas to get you started:
+I have a few projects, but you should check out these:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [orpheusmarket](https://github.com/DaBlower/orpheusmarket) - A replica heidimarket site for Hack Club's Summer of Making!
+* [my raycast extension](https://github.com/DaBlower/markdown-to-html-raycast) - A raycast extension that converts html to markdown and markdown to html!
+* [shells](https://github.com/DaBlower/shells) - (Work in progress!) A tool that predicts the amount of shells you will recieve from a ship in Summer of Making!
+* [u-crawler](https://github.com/DaBlower/u-crawler) - A command line tool that scrapes the University of New South Wales courses page to get a list of all courses and their properties (such as units of credit) *while* respecting [robots.txt](https://www.cloudflare.com/en-gb/learning/bots/what-is-robots-txt/)!
+
+You can see my stats (since June 2025) here:
+<br>
+![](https://github-readme-stats.hackclub.dev/api/wakatime?username=8989&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent
+)
