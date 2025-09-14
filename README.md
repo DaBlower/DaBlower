@@ -1,6 +1,6 @@
 ## Hello!
 
-I started programming with C and now mainly use Python (though I do occasionally use some other languages such as ruby!)
+I started programming with C and now mainly use Python becuase I'm lazy /hj (though I do occasionally use some other languages such as ruby!)
 
 I have a few projects, but you should check out these:
 
