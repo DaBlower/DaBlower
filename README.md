@@ -13,6 +13,7 @@ I have a few projects, but you should check out these:
 
 and a lot more hardware projects!
 
-You can see my stats (since June 2025) here:
+You can see my stats (hackatime since June 2025) here:
 <br>
 ![](https://github-readme-stats.hackclub.dev/api/wakatime?username=8989&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=DaBlower&theme=default&show_icons=true&hide_border=true&count_private=true)
