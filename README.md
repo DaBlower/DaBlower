@@ -3,6 +3,8 @@
 I started programming with C,  now mainly use Python becuase I'm lazy /hj. and also trying to learn rust! (though I do occasionally use some other languages like ruby!)
 
 
+**I apologise in advance for this massive wall of text 🫡)**
+
 I have a few projects, but you should check out these:
 
 * [kindling](https://github.com/DaBlower/daydreamer) - This is one of my favourite projects!!! I made it along with [2 other people](https://github.com/DaBlower/daydreamer/graphs/contributors) for Daydream ([a game jam](https://daydream.hackclub.com/sydney)), which was just so so fun! Basically a platformer, with a unique mechanic, you have a light that surrounds you (like a candle), and it slowly runs out. You can exchange some light for things like flying in the shop, however the less light you have, the less you can see and if you run out, you lose (the theme was "sacrifices must be made").
