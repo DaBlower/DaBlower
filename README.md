@@ -3,7 +3,7 @@
 I started programming with C,  now mainly use Python becuase I'm lazy /hj. and also trying to learn rust! (though I do occasionally use some other languages like ruby!)
 
 
-**I apologise in advance for this massive wall of text 🫡)**
+**I apologise in advance for this massive wall of text 🫡**
 
 I have a few projects, but you should check out these:
 
