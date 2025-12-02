@@ -33,10 +33,12 @@ I have a few projects, but you should check out these:
 
 <details>
 <summary>and a lot more hardware projects!</summary>
-* [tempBoard](https://github.com/DaBlower/tempBoard) - A PCB that shows temperature and relative humidity on a 128x64px OLED screen using a SHTC3 sensor
-* [wasdpad](https://github.com/DaBlower/wasdpad) - A macropad with 6 inputs and 3 layers, an OLED display and neopixels! Made for Hackclub's [Hackpad YSWS](https://hackpad.hackclub.com) as a part of [Blueprint](https://blueprint.hackclub.com)!
-* [treeBoard (see a theme here?)](https://github.com/DaBlower/treeboard) - A PCB that has 3 switches and 3 LEDs, which you can play various minigames on with a Xiao RP2040 as the microcontroller
-* [solder (one of my first actual hardware projects!!!)](https://github.com/DaBlower/solder) - A fun light-up-in-the-dark pcb shaped like a duck that can be used as a keytag for decoration
+<ul>
+<li><a href="https://github.com/DaBlower/tempBoard">tempBoard</a> - A PCB that shows temperature and relative humidity on a 128x64px OLED screen using a SHTC3 sensor</li>
+<li><a href="https://github.com/DaBlower/wasdpad">wasdpad</a> - A macropad with 6 inputs and 3 layers, an OLED display and neopixels! Made for Hackclub&#39;s <a href="https://hackpad.hackclub.com">Hackpad YSWS</a> as a part of <a href="https://blueprint.hackclub.com">Blueprint</a>!</li>
+<li><a href="https://github.com/DaBlower/treeboard">treeBoard (see a theme here?)</a> - A PCB that has 3 switches and 3 LEDs, which you can play various minigames on with a Xiao RP2040 as the microcontroller</li>
+<li><a href="https://github.com/DaBlower/solder">solder (one of my first actual hardware projects!!!)</a> - A fun light-up-in-the-dark pcb shaped like a duck that can be used as a keytag for decoration</li>
+</ul>
 </details>
   
 You can see my stats (hackatime since June 2025) here:
